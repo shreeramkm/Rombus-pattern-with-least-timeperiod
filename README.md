@@ -1,0 +1,1 @@
+# Rombus-pattern-with-least-timeperiod
